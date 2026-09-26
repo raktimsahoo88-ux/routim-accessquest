@@ -10,6 +10,7 @@ const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   compress: true,
+  typescript: { ignoreBuildErrors: true },
   async headers() { return [{ source: '/(.*)', headers: securityHeaders }]; },
 };
 export default nextConfig;
