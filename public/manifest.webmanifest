@@ -1,0 +1,10 @@
+{
+  "name": "Routim — AccessQuest",
+  "short_name": "Routim",
+  "description": "Evidence-driven accessible campus routing and barrier reporting.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#17263c",
+  "icons": []
+}

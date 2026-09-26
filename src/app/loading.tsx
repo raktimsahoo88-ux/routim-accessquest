@@ -1,0 +1,1 @@
+export default function Loading(){return <main style={{minHeight:'100vh',display:'grid',placeItems:'center',background:'#f4f0e7',color:'#17263c'}}><div role="status" aria-live="polite" style={{fontWeight:800}}>Loading Routim…</div></main>}
